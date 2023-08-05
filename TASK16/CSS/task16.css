@@ -1,0 +1,310 @@
+.c{
+	height:270px;
+	width: 1500px;
+	background-color:white;
+
+}
+.a{
+	height:270px;
+	width:1100px;
+	background-color:lightblue;
+	border-radius:10px;
+	margin-right:20px;
+	float:left;
+}
+.b{
+	height:270px;
+	width:360px;
+	background-color:lightgreen;
+	float:left;
+	border-radius:10px;
+}
+.dr{
+	color:blue;
+	margin-left:20px;
+}
+.y{
+	color:blue;
+	margin-left:20px;
+	font-size:20px;
+}
+button{
+	color:white;
+	background-color:blue;
+	height:30px;
+	width:180px;
+	border-radius:5px;
+}
+i{
+	font-size:60px;
+	margin-top:20px;
+	color:darkgreen;
+}
+.d{
+	color:darkgreen;
+}
+.e{
+	height:280px;
+	width:1500px;
+	background-color:white;
+}
+.f{
+	height:250px;
+	width:480px;
+	background-color:lightpink;
+	border-radius:20px;
+	margin:10px 10px 10px 10px;
+	float:left;
+}
+.g{
+	color:red;
+	font-color:red;
+}
+.h{
+	background-color:dodgerblue;
+	height:800px;
+	width:1480px;
+	margin-left:10px;
+}
+.i{
+	height:400px;
+	width:400px;
+	margin-left:200px;
+	margin-top:40px;
+}
+.j{
+	color:white;
+	margin-left:200px;
+}
+.k{
+	height:800px;
+	width:720px;
+	float:left;
+	background-color:dodgerblue;
+}
+.l{
+	font-size:20px;
+	color:white;
+	margin-left:150px;
+}
+.m{
+	height:580px;
+	width:300px;
+	margin-top:200px;
+	background-color:white;
+	border-radius:20px;
+	float:left;
+	margin-left:100px;
+}
+.n{
+	
+	color:violet;
+	font-size:40px;
+}
+.o{
+	height:200px;
+	width:800px;
+	background-color:pink;
+	border-radius:20px;
+	margin-left:300px;
+}
+.p{
+	height:200px;
+	width:800px;
+	background-color:yellow;
+	border-radius:20px;
+	margin-top:20px;
+	margin-left:300px;
+}
+.q{
+	height:200px;
+	width:800px;
+	background-color:lightgreen;
+	border-radius:20px;
+	margin-top:20px;
+	margin-left:300px;
+}
+.r{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	border:5px solid black;
+	margin-left:20px;
+	margin-top:30px;
+}
+.s{
+	margin-left:100px;
+	margin-top:30px;
+}
+.t{
+	height:750px;
+	width:1500px;
+	background-color:dodgerblue;
+}
+.u{
+	color:white;
+	font-size:40px;
+	margin-top:20px;
+}
+.v{
+	height:180px;
+	width:200px;
+	margin-top:10px;
+	margin-left:30px;
+	background-color:pink;
+	float:left;
+}
+.w{
+	height:180px;
+	width:200px;
+	margin-top:10px;
+	margin-left:30px;
+	background-color:yellow;
+	float:left;
+}
+.x{
+	height:180px;
+	width:200px;
+	margin-top:10px;
+	margin-left:30px;
+	background-color:lightgreen;
+	float:left;
+}
+.A{
+	height:300px;
+	width:470px;
+	background-color:white;
+	border-radius:20px;
+	margin:10px 10px 10px 10px;
+	float:left;
+
+}
+.B{
+	font-size:60px;
+	color:blue;
+	margin-left:25px;
+	margin-top:5px;
+}
+.C{
+	color:blue;
+	font-size:20px;
+	margin-left:25px;
+	margin-top:10px;
+}
+.D{
+	color:grey;
+	margin-left:25px;
+}
+.E{
+	color:white;
+	height:50px;
+	width:100px;
+	border-radius:20px;
+	font-color:blue;
+	margin-left:25px;
+}
+.F{
+	margin-top:10px;
+	height:500px;
+	width:1500px;
+	background-color:white;
+}
+.G{
+	height:500px;
+	width:800px;
+	background-color:white;
+	margin-left:10px;
+	float:left;
+}
+.H{
+	height:500px;
+	width:600px;
+	background-color:white;
+	margin-left:10px;
+	float:left;
+}
+.I{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	border:2px solid black;
+	margin-top:20px;
+	margin-left:30px;
+}
+.J{
+	font-size:30px;
+	color:blue;
+	margin-left:30px;
+}
+.K{
+	height:60px;
+	width:250px;
+	font-size:20px;
+	font-color:blue;
+	color:white;
+	margin-left:30px;
+}
+.L{
+	color:blue;
+	font-size:50px;
+}
+.M{
+	color:grey;
+	font-size:20px;
+}
+.N{
+	height:500px;
+	width:1500px;
+	background-color:dodgerblue;
+}
+.O{
+	font-size:40px;
+	color:white;
+}
+.P{
+	font-size:60px;
+	color:orange;
+}
+.Q{
+	font-size:20px;
+	color:white;
+}
+.R{
+	height:60px;
+	width:100px;
+	border-radius:20px;
+	color:dodgerblue;
+	background-color:white;
+}
+.S{
+	height:100px;
+	width:1500px;
+	background-color:black;
+}
+.T{
+	font-size:10px;
+	color:white;
+}
+.aa{
+	float:right;
+	height:250px;
+	width:400px;
+}
+.bb{
+	color:darkgreen;
+}
+.cc{
+	color:red;
+}
+.dd{
+	color:yellow;
+}
+.ee{
+	color:brown;
+}
+.ff{
+	color:purple;
+}
+.gg{
+	background-color:violet;
+}
